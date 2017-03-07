@@ -1,0 +1,6 @@
+G:\Repos\Csharp-Coding-Challenges\TripletSum\bin\Debug\TripletSum.exe.config
+G:\Repos\Csharp-Coding-Challenges\TripletSum\obj\Debug\TripletSum.csprojResolveAssemblyReference.cache
+G:\Repos\Csharp-Coding-Challenges\TripletSum\bin\Debug\TripletSum.exe
+G:\Repos\Csharp-Coding-Challenges\TripletSum\bin\Debug\TripletSum.pdb
+G:\Repos\Csharp-Coding-Challenges\TripletSum\obj\Debug\TripletSum.exe
+G:\Repos\Csharp-Coding-Challenges\TripletSum\obj\Debug\TripletSum.pdb
